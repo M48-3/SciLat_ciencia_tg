@@ -1,8 +1,17 @@
 # SciLat_Codigo_&_Ciencia
 Segmento para la integración de los códigos comunitarios SciLat en la sección "Codigos & Ciencia".
 
--En MAB-3 nos complace compartir con ustedes algunos pseudocódigos de ejemplo que pueden ser de gran utilidad en sus proyectos. Sin embargo, nos gustaría dejar en claro que estos códigos son solo para fines de ayuda y colaboración, y cada usuario es responsable de comprobar y adaptar el código a sus necesidades específicas antes de utilizarlo en sus proyectos. 
+"Estimada comunidad,
 
--Por lo tanto, MAB-3 no se hace responsable de cualquier daño o problema que pueda surgir al utilizar estos códigos en sus proyectos. Les instamos a que sean cuidadosos y diligentes al utilizar cualquier código de ejemplo que se comparta en la comunidad.
+Nos complace compartir con todos ustedes algunos pseudocódigos de ejemplo que pueden ser de gran utilidad en sus proyectos. Sin embargo, queremos dejar en claro que estos códigos son solo para fines de ayuda y colaboración, y cada uno de nosotros es responsable de comprobar y adaptar el código a nuestras necesidades específicas antes de utilizarlo en nuestros proyectos.
 
--Esperamos que estos pseudocódigos sean de gran ayuda para ustedes y les deseamos éxito en sus proyectos.
+Por lo tanto, ninguno de nosotros se hace responsable de cualquier daño o problema que pueda surgir al utilizar estos códigos en nuestros proyectos. Les instamos a que seamos cuidadosos y diligentes al utilizar cualquier código de ejemplo que se comparta en la comunidad.
+
+Además, queremos recordarles que esta comunidad está abierta a la colaboración y el intercambio de conocimientos, por lo que cualquier miembro puede contribuir al repositorio con sus propios códigos de ejemplo. Sin embargo, es importante tener en cuenta que todos los códigos compartidos en el repositorio estarán sujetos a la misma política de exención de responsabilidad que se aplica a los pseudocódigos compartidos por MAB-3.
+
+Por lo tanto, es responsabilidad de cada uno de nosotros comprobar y adaptar los códigos compartidos por otros miembros antes de utilizarlos en nuestros proyectos.
+
+Esperamos que esta comunidad siga siendo un lugar de colaboración y aprendizaje para todos nosotros.
+
+Atentamente,
+Todos los miembros de la comunidad"
